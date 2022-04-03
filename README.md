@@ -14,3 +14,5 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 # opendesignscustomcontract
+
+A nft marketplace built on next js and thirdweb. A custom contract is created using solidity.
